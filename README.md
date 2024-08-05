@@ -20,7 +20,7 @@
 
 👩‍🎓 Former Software Engineer pivoted to Data Engineering.
   
-✍️ Bachelors of Information Science graduate from the University of Pretoria (South Africa), armed with compter science and data skills.
+✍️ Bachelors of Information Science graduate from the University of Pretoria (South Africa), armed with computer science and data skills.
   
 📈 Madly passionate about Modern Data Stacks, Data Engineering, Data Architecture, Building Distributed Systems!
 
