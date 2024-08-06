@@ -19,12 +19,18 @@
 **Fun facts:**
 
 👩‍🎓 Former Software Engineer pivoted to Data Engineering.
-  
-✍️ Bachelors of Information Science graduate from the University of Pretoria (South Africa), armed with computer science and data skills.
-  
+
+✍️ Bachelors of Information Science Multimedia graduate from the University of Pretoria (South Africa), armed with computer science and design skills.
+
 📈 Madly passionate about Modern Data Stacks, Data Engineering, Data Architecture, Building Distributed Systems!
 
-:robot: 7 years in IT building software engineering solutions and now data engineering solutions
+🤖 7 years+ in IT building software engineering solutions and data engineering solutions
+
+😄 Currently working at BMW as a data engineer and Team Lead for ZA
+
+⚙️ Studying towards my MBA from 2024 Sept - 2026 online with ESMT
+
+:ninja: Skills : Java [4 yr], Python [1 yr], Pyspark [1 yr], AWS [1 yr], DBT [1 yr]
 
 
 <br>
