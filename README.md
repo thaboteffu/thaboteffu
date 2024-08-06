@@ -30,7 +30,7 @@
 
 ⚙️ Studying towards my MBA from 2024 Sept - 2026 online with ESMT
 
-:ninja: Skills : Java [4 yr], Python [1 yr], Pyspark [1 yr], AWS [1 yr], DBT [1 yr]
+:mechanical_arm: Java [4 yr], Python [1 yr], Pyspark [1 yr], AWS [1 yr], DBT [1 yr]
 
 
 <br>
