@@ -22,7 +22,7 @@
 
 ✍️ Bachelors of Information Science Multimedia graduate from the University of Pretoria (South Africa), armed with computer science and design skills.
 
-📈 Madly passionate about Modern Data Stacks, Data Engineering, Data Architecture, Building Distributed Systems!
+📈 Madly passionate about Product Management, Data Engineering, Building Distributed Systems!
 
 🤖 7 years+ in IT building software engineering solutions and data engineering solutions
 
